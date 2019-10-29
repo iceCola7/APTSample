@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import com.cxz.apt_annotation.BindView;
+import com.cxz.butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity {
 

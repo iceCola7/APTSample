@@ -1,4 +1,4 @@
-package com.cxz.aptsample;
+package com.cxz.butterknife;
 
 import android.app.Activity;
 import android.support.v4.app.Fragment;
